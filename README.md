@@ -13,13 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+&nbsp;&nbsp;
+  <a href="https://twitter.com/siyahbulent"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 -->
 <p aling="center">
 I' m Software Engineer. I am improving myself in Deep Learning.
 </p>
 <div aling="center">
-<a href="https://www.linkedin.com/in/cevatarmutlu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </div>
+
+&nbsp;&nbsp;
+<p align='left'>
+  <a href="https://www.linkedin.com/in/cevatarmutlu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/cevatarmutlu"><img src="https://github.com/bulentsiyah/bulentsiyah/blob/master/images/kaggle.png"></a> 
+</p>
+
+
 ### Github Stats
 
 <div align="center">
