@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p aling="left">
+<p aling="center">
 I' m Software Engineer. I am improving myself in Deep Learning.
 
 <a href="https://www.linkedin.com/in/cevatarmutlu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
