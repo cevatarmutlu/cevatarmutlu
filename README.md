@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div aling="center">
+<p aling="center">
 I' m Software Engineer. I am improving myself in Deep Learning.
-
+</p>
+<div aling="center">
 <a href="https://www.linkedin.com/in/cevatarmutlu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 </div>
-
-
 ### Github Stats
 
 <div align="center">
