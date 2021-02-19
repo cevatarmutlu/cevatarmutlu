@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/siyahbulent"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 -->
 <p aling="center">
-I' m Software Engineer. I am improving myself in Machine Learning.
+
 <div aling="center">
 
 </div>
