@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi I'm Cevat 👋
 
-<p aling="center">
-
-<div aling="center">
-
-</div>
+I am developing myself in data engineering. Hadoop Ecosystem, GCP, Kafka, Spark, NoSQL databases, API etc.
 
 &nbsp;&nbsp;
 <p align='left'>
