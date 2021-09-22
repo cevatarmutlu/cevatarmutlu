@@ -1,7 +1,5 @@
 ### Hi I'm Cevat 👋
 
-I am developing myself in data engineering. Hadoop Ecosystem, GCP, Kafka, Spark, NoSQL databases, API etc.
-
 &nbsp;&nbsp;
 <p align='left'>
   <a href="https://www.linkedin.com/in/cevatarmutlu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
